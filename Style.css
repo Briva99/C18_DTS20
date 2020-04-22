@@ -1,1 +1,28 @@
+.headers {
+    height: 90px;
+    width: 100%;
+    background: rgb(221, 236, 234);
+    background: -webkit-linear-gradient(top, rgb(221, 236, 234) 0%, rgba(203, 243, 218, 0.89) 75%);
+    background: -moz-linear-gradient(top, rgb(221, 236, 234) 0%, rgba(203, 243, 218, 0.89) 75%);
+    background: -o-linear-gradient(top, rgb(221, 236, 234) 0%, rgba(203, 243, 218, 0.89) 75%);
+    background: -ms-linear-gradient(top, rgb(221, 236, 234) 0%, rgba(203, 243, 218, 0.89) 75%);
+    filter: progid: DXImageTransform.Microsoft.gradient(startColorstr='rgb(221, 236, 234)', endColorstr='rgba(203, 243, 218, 0.89)', GradientType=0);
+}
 
+.header li {
+    padding: 28px 20px;
+    float: left;
+    font-size: 20px;
+    list-style: none;
+    color: rgb(91, 92, 91);
+}
+
+.logo_kanan {
+    padding-top: 12px;
+    float: right;
+    height: 90px;
+}
+
+.logo_kiri {
+    float: left;
+}
