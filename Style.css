@@ -26,3 +26,53 @@
 .logo_kiri {
     float: left;
 }
+
+.container {
+  width: 100%;
+  padding: 0 15px;
+  margin: 0 auto;
+}
+
+.profile {
+  height: 500px;
+  padding-bottom: 80px;
+  padding-left: 100px
+  background-color: #f7f7f7;
+}
+
+.heading {
+  padding-top: 60px;
+  padding-bottom: 30px;
+  text-align: center;
+  color: #5f5d60;
+
+}
+.heading h2 {
+  font-weight: normal;
+}
+
+.pro {
+  float:left;
+  padding-left: 12px;
+  width: 20%;
+  text-align: center;
+  color: #000000;
+}
+
+.profile-icon {
+  position: relative;
+}
+
+.txt-contents{
+  font-weight: bold;
+}
+
+@media (max-width:1000px){
+  .pro{
+    width:50%;
+}
+
+@media (max-width:670px){
+  .pro{
+    width:100%;
+}
