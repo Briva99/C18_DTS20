@@ -137,3 +137,12 @@
   font-weight: bold;
 }
 
+@media (max-width:1000px){
+  .pro{
+    width:50%;
+}
+
+@media (max-width:670px){
+  .pro{
+    width:100%;
+}
