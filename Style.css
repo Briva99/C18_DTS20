@@ -137,6 +137,28 @@
   font-weight: bold;
 }
 
+/* footer */
+.footer{
+  clear: both;
+  width: 100%;
+  background-color: #171717;
+  height: 80px;
+}
+.footer p{
+  color: aliceblue;
+  text-align: center;
+}
+.footer-menu p{
+  line-height: 2px;
+  padding-top: 20px;
+  word-spacing: 5px;
+  letter-spacing: 3px;
+}
+.footer-copy p{
+  padding-top: 10px;
+}
+
+
 @media (max-width:1000px){
   .pro{
     width:50%;
@@ -146,3 +168,4 @@
   .pro{
     width:100%;
 }
+
