@@ -1,42 +1,63 @@
 @media all and (max-width: 1000px) {
-  .main h1 {
-    font-size: 35px;
-  }
-  .main h2 {
-    font-size: 20px;
-  }
-  .main-bottom {
-    height: 110px;
-  }
-  .pro {
-    width:50%;
-  }
+    .main h1 {
+        font-size: 35px;
+    }
+    .main h2 {
+        font-size: 20px;
+    }
+    .main-bottom {
+        height: 110px;
+    }
+    .pro {
+        width: 45%;
+    }
+    .profile {
+        height: 1100px;
+        padding-left: 25px;
+    }
 }
 
+
 /* Untuk Smartphone */
+
 @media all and (max-width: 670px) {
-  .logo_kiri {
-    display: none;
-  }
-  .logo_kanan {
-    display: none;
-  }
-  .main-border {
-    height: 90px;
-  }
-  .main h1 {
-    font-size: 15px;
-  }
-  .main h2 {
-    font-size: 15px;
-  }
-  .main-bottom {
-    height: 150;
-  }
-  .main-bottom p {
-    font-size: 12px;
-  }
-   .pro {
-    width:100%;
-  }
+    .logo_kiri {
+        display: none;
+    }
+    .logo_kanan {
+        height: 40px;
+        width: 60px;
+    }
+    .header li {
+        font-size: 15px;
+        padding: 30px 5px;
+    }
+    .main-border {
+        height: 90px;
+    }
+    .main h1 {
+        font-size: 15px;
+    }
+    .main h2 {
+        font-size: 15px;
+    }
+    .main-bottom {
+        height: 150px;
+    }
+    .main-bottom p {
+        font-size: 12px;
+    }
+    .pro {
+        width: 100%;
+    }
+    .footer {
+        width: 100%;
+    }
+    .footer p {
+        font-size: 12px;
+    }
+    input,
+    textarea {
+        width: auto;
+    }
 }
