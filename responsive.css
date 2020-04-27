@@ -61,8 +61,8 @@
     .footer {
         width: 100%;
     }
-    .footer p {
-        font-size: 12px;
+    .footer-menu p {
+        font-size: 10px;
     }
     input,
     textarea {
