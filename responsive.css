@@ -3,7 +3,7 @@
         font-size: 35px;
     }
     .main h2 {
-        font-size: 20px;
+        font-size: 16px;
     }
     .main-bottom {
         height: 110px;
@@ -12,8 +12,8 @@
         width: 45%;
     }
     .profile {
-        height: 1100px;
-        padding-left: 25px;
+        height: 1200px;
+       /* padding-left: 25px;*/
     }
 }
 
@@ -47,7 +47,7 @@
         font-size: 15px;
     }
     .main h2 {
-        font-size: 15px;
+        font-size: 14px;
     }
     .main-bottom {
         height: 150px;
