@@ -66,19 +66,11 @@
     }
     input,
     textarea {
-        width: 100%;
+        width: 80%;
         padding-left: 10px;
-    }
-    .footer-menu p {
-        font-size: 9px;
     }
     .contact-form {
-        padding-left: 50px;
-    }
-    .contact-form p {
-        padding-left: 10px;
-    }
-    .contact-submit {
-        padding-left: 10px;
+        width: 100%;
+        margin-left: 10px;
     }
 }
