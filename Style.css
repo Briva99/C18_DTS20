@@ -134,7 +134,7 @@
 .profile {
     height: 500px;
     padding-bottom: 80px;
-    padding-left: 100px;
+    /*padding-left: 100px;*/
     background-color: #f7f7f7;
 }
 
@@ -150,12 +150,13 @@
     font-size: 38px;
     font-weight: bold;
     padding-bottom: 10px;
-    text-decoration: underline;
+    /*text-decoration: underline;*/
 }
 
 .pro {
     float: left;
-    padding-left: 12px;
+    /*padding-left: 12px;*/
+    margin: 10px;
     width: 18%;
     text-align: center;
     color: #000000;
